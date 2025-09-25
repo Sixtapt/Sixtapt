@@ -21,8 +21,5 @@
 - 🚀 Cybersecurity & Automation Tools  
 - 🚀 Innovative Tech Solutions  
 
-## 📫 How to reach me
-💼 LinkedIn: [linkedin.com/in/marcosilvaalves](https://www.linkedin.com/in/marcosilvaalves/)  
-
 ## ⚡ Fun fact
 I love building tech projects from scratch and automating everything! 🔥🤖
